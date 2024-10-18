@@ -62,7 +62,7 @@ fun GreetingText(
 
         Text(
             text = message,
-            fontSize = 100.sp,
+            fontSize = 95.sp,
             lineHeight = 116.sp,
             textAlign = TextAlign.Center
         )
